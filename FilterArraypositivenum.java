@@ -7,7 +7,7 @@ import java.util.Set;
 public class FilterArraypositivenum {
 
 	public static void main(String[] args) {
-		
+		System.out.print("some thing");
 //		filterArray([1, 2, "a", "b"]) ➞ [1, 2]
 //		filterArray([1, "a", "b", 0, 15]) ➞ [1, 0, 15]
 //		filterArray([1, 2, "aasf", "1", "123", 123]) ➞ [1, 2, 123]
