@@ -29,6 +29,7 @@ public class ConsecutiveNum {
 		 }	
 		
 		System.out.print(str+" Is Consecutive Number :"+flag);
+		System.out.print(str+" Is Consecutidfsgfsdve Number :"+flag);
 	}
 
 }
